@@ -22,4 +22,4 @@ Hi there, I'm Miruthyan Jayan S 👋<br><br>🚀 AI/ML Trainer | Generative AI D
 ![](https://github-contributor-stats.vercel.app/api?username=MiruthyanJayanS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=MiruthyanJayanS) 
+![Visitor Count](https://profile-counter.glitch.me/MiruthyanJayanS/count.svg) 
