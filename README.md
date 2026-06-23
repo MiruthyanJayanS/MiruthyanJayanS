@@ -18,6 +18,10 @@ Hi there, I'm Miruthyan Jayan S 👋<br><br>🚀 AI/ML Trainer | Generative AI D
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/MiruthyanJayanS/MiruthyanJayanS/blob/output/github-contribution-grid-snake-dark.svg)
+
 # 🚀 Productive Time
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiruthyanJayanS&theme=tokyonight&utcOffset=5.5)
 
