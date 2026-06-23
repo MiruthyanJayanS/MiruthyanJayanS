@@ -15,5 +15,8 @@ Hi there, I'm Miruthyan Jayan S 👋<br><br>🚀 AI/ML Trainer | Generative AI D
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# 🚀 Productive Time
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiruthyanJayanS&theme=tokyonight&utcOffset=5.5)
+
 ---
 ![](https://komarev.com/ghpvc/?username=MiruthyanJayanS&label=Random+Views&colour=brightgreen&style=plastic)
